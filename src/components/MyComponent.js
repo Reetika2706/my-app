@@ -4,7 +4,7 @@ function MyComponent (){
     const handleClick =() =>{
         alert('Hello, React!');
     }
-    return <div><h1>First Component created</h1>
+    return <div><h1>First Component created LAB 4</h1>
     <button onClick={handleClick}>Click me</button>
     </div>
 }
