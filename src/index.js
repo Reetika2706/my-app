@@ -8,7 +8,7 @@ import MyComponent from './components/MyComponent';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <MyComponent></MyComponent>
+  <App/>
   </React.StrictMode>
 );
 
